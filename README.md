@@ -1,4 +1,4 @@
-# Hello <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@everyone</a> 👋
+# Hello 👋
 
 I'm mawathilde, Java dev from France!
 
