@@ -1,7 +1,8 @@
-## Hi there 👋
+# Hello <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@everyone</a> 👋
 
-### Links
+I'm mawathilde, Java dev from France!
 
-[![GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/available/github_64h.png)](https://github.com/mawathilde)
+I'm currently working on [Wizards Story](https://discord.gg/wizards-story)
 
-<a href="https://www.buymeacoffee.com/mawathilde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+### My Github stats
+<img src="https://github-readme-stats.vercel.app/api?username=mawathilde&show_icons=true&theme=radical&count_private=true">
