@@ -1,6 +1,6 @@
 # Hello 👋 ![](https://komarev.com/ghpvc/?username=mawathilde&color=red)
 
-I'm mawathilde, Java dev from France!
+I'm mawathilde, Java (and more) dev from France!
 
 I'm currently working on [Wizards Story](https://discord.gg/wizards-story)
 
