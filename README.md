@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 * 🌍  I'm based in Lille, France
-* ✉️  You can contact me at [mathilde@mawathilde.fr](mailto:dev@mawathilde.fr)
+* ✉️  You can contact me at [dev@mawathilde.fr](mailto:dev@mawathilde.fr)
 * 🚀  I'm currently working on [Wizards Story](http://go.mawathilde.fr/wizards-story)
 * 🧠  I'm learning Spring, React, Rust
 
