@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Mawa
+# 👋 Hi, I'm Mawa
 
-Full-stack developer.
-If it's code, I'm probably poking at it!
+I write code.
+Sometimes it works.
 
 ![Madeline](https://media.tenor.com/EhmdDLgEARsAAAAM/madeline-celeste.gif)
